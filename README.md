@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 A bipedal walking robot is a kind of humanoid robot. It is supposed to mimic human behavior and designed to perform human specific tasks.
 But currently, humanoid robots are not capable of walking like human beings. To perform the walking task, in the current work, human gait data of  6 different walking styles named brisk walk, normal walk,
 A very slow walk, medium walk, jogging and fast walk is collected through our configured IMU sensor and mobile-based accelerometer device. 
